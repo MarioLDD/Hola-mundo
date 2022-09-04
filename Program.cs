@@ -1,6 +1,6 @@
-﻿using System; // Define the System package  
-namespace ConsoleApp3 // Project name or Folder  
-{
+﻿//using System; // Define the System package  
+//namespace ConsoleApp3 // Project name or Folder  
+//{
     class Program
     {
         static void Main(string[] args) // Defining the main function  
@@ -11,4 +11,4 @@ namespace ConsoleApp3 // Project name or Folder
             Console.WriteLine("Hi! " + name + " Welcome to the JavaTpoint"); // print the output  
         }
     }
-} holaaaaaa
+//}
